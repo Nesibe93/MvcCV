@@ -133,6 +133,7 @@
     <Compile Include="Controllers\DeneyimController.cs" />
     <Compile Include="Controllers\EğitimController.cs" />
     <Compile Include="Controllers\HakkımdaController.cs" />
+    <Compile Include="Controllers\HobiController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\SertifikaController.cs" />
     <Compile Include="Controllers\YetenekController.cs" />
@@ -171,6 +172,9 @@
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\Entity\TblSertifikalarim.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\TblSosyalMedya.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\Entity\TblYetenekler.cs">
@@ -2377,6 +2381,8 @@
     <Content Include="Views\Sertifika\SertifikaGetir.cshtml" />
     <Content Include="Views\Sertifika\YeniSertifika.cshtml" />
     <Content Include="Views\İletisim\Index.cshtml" />
+    <Content Include="Views\Hobi\Index.cshtml" />
+    <Content Include="Views\Default\SosyalMedya.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
