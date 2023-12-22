@@ -12,6 +12,7 @@ namespace MvcCV.Controllers
     {
         // GET: Eğitim
         GenericRepository<TblEgitim> repo = new GenericRepository<TblEgitim>();
+ 
         public ActionResult Index()
         {
             var egitim = repo.List();

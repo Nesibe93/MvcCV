@@ -18,5 +18,6 @@ namespace MvcCV.Models.Entity
         public string Ad { get; set; }
         public string Link { get; set; }
         public string İcon { get; set; }
+        public Nullable<bool> Durum { get; set; }
     }
 }

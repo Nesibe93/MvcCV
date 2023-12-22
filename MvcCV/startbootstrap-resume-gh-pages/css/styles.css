@@ -6076,7 +6076,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #a382f7 !important;
+  background-color: #7952ce !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10076,13 +10076,13 @@ p.lead {
     font-size: 1.5rem;
     margin-right: 1.5rem;
 }
+
 .social-icons .social-icon:last-child {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
   background-color: #bd5d38;
 }
-
 .dev-icons {
   font-size: 3rem;
 }
