@@ -2054,6 +2054,7 @@
     <Content Include="images\login-page-bg.jpg" />
     <Content Include="images\mediumwhite.png" />
     <Content Include="images\Nesibe.jpg" />
+    <Content Include="images\Nesibe2.jpg" />
     <Content Include="login-form-20\css\bootstrap.min.css" />
     <Content Include="login-form-20\css\bootstrap\mixins\_border-radius.css" />
     <Content Include="login-form-20\css\bootstrap\mixins\_reset-text.css" />

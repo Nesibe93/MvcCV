@@ -159,9 +159,9 @@ sup {
 }
 
 a {
-  color: #bd5d38;
-  text-decoration: none;
-  background-color: transparent;
+    color: #7952ce;
+    text-decoration: none;
+    background-color: transparent;
 }
 a:hover {
   color: #824027;
@@ -10044,7 +10044,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.2rem !important solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -10083,8 +10083,9 @@ p.lead {
 .social-icons .social-icon:hover {
   background-color: #bd5d38;
 }
+
 .dev-icons {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 section.resume-section {
