@@ -1,6 +1,6 @@
 ## **MVC ile Dinamik Cv Sitesi** <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="24" height="24" />
 Bu proje, kullanıcıların kişisel özgeçmişlerini oluşturabileceği ve yönetebileceği dinamik bir CV projesidir.Udemy eğitim platformunda Murat Yücedağ hocamız tarafından yayınlanmıştır.
-## Projeye Genel Bakış👁️‍🗨️
+### Projeye Genel Bakış👁️‍🗨️
 - Kullanıcılar, dinamik bir CV oluşturabilir ve güncelleyebilir.
 - CV içeriği, kullanıcı dostu bir arayüzle düzenlenebilir.
 - Giriş ve yetkilendirme işlemleri, güvenli bir kullanıcı deneyimi sunar.
@@ -12,17 +12,17 @@ Bu proje, kullanıcıların kişisel özgeçmişlerini oluşturabileceği ve yö
 + Repository Design Pattern
 + Html
 + Css
-## Admin Paneli🛠️
-Admin Paneli Neler Yapabilir?
+### Admin Paneli🛠️
+**`Admin Paneli Neler Yapabilir?`**
 - Kullanıcı Yönetimi
-- İçerik Yönetimi
 - Sayfaları ve içeriği düzenleme yetkisi
 - Veritabanı Yönetimi, Verileri görüntüleme ve düzenleme
 - Genel sistem ayarlarını ve yapılandırmalarını yönetme
 - Email gönderme, güvenlik önlemleri gibi ayarları düzenleme
 > [!IMPORTANT]
-> Admin paneli için;<br>
-> Kullanıcı Adı: Admin<br>
+> `Admin paneli için;`
+> ```C#
+> Kullanıcı Adı: Admin
 > Şifre: 1234
 ![Adminpaneli1](https://github.com/Nesibe93/MvcCV/assets/125722258/17c5cde9-09e1-4418-8b64-49d191517c80)
 ![Adminpaneli2](https://github.com/Nesibe93/MvcCV/assets/125722258/692d7a26-4bb4-4061-967a-9f4658a117bf)
