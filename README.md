@@ -9,15 +9,10 @@
 ### <img width="20" height="20" src="https://img.icons8.com/office/24/diploma.png" alt="diploma"/> Sertifika
 
 #### **`Kullanılan Teknolojiler`**
-+ CSS
 + ASP.NET Framework
 + MVC
-+ nes
-
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
++ Mssql
++ 
 
 > [!IMPORTANT]
 > Admin paneli için;<br>
