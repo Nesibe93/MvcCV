@@ -26,14 +26,14 @@
                                         <!-- timeline time label -->
                                         <div class="time-label">
                                             <span class="bg-info">
-                                                @(((DateTime)item.Tarih).ToString("dd-MMM-yyyy"))
+                                                @(((DateTime)item.Tarih).ToString("dd-MMM-yyyy")) 
                                             </span>
                                         </div>
                                         <div>
                                             <i class="fas fa-comments bg-warning"></i>
                                             <div class="timeline-item">
-                                                <span class="time"><i class="far fa-clock"></i>@item.Mail</span>
-                                                <h3 class="timeline-header"><a href="#">@item.AdSoyad</a>@item.Konu</h3>
+                                                <span class="time"><i class="far fa-clock"></i>@item.Mail </span>
+                                                <h3 class="timeline-header"><a href="#">@item.AdSoyad &nbsp;</a>@item.Konu</h3>
                                                 <div class="timeline-body">
                                                   @item.Mesaj
                                                 </div>
