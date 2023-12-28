@@ -27,7 +27,7 @@ Bu proje, kullanıcıların kişisel özgeçmişlerini oluşturabileceği ve yö
 ![Adminpaneli1](https://github.com/Nesibe93/MvcCV/assets/125722258/17c5cde9-09e1-4418-8b64-49d191517c80)
 ![Adminpaneli2](https://github.com/Nesibe93/MvcCV/assets/125722258/692d7a26-4bb4-4061-967a-9f4658a117bf)
 ### <img width="22" height="22" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-home-resume-flaticons-lineal-color-flat-icons.png" alt="external-home-resume-flaticons-lineal-color-flat-icons"/>Anasayfa
-![Default1](https://github.com/Nesibe93/MvcCV/assets/125722258/667addea-9ab1-436a-b4d9-98b3243c42fa)
+![Default1](https://github.com/Nesibe93/MvcCV/assets/125722258/b7e99bde-6968-41f1-b734-21a9b0673f4b)
 ### <img width="22" height="22" src="https://img.icons8.com/tiny-color/16/code.png" alt="code"/>Yetenek
 ![default2](https://github.com/Nesibe93/MvcCV/assets/125722258/0ecdc78d-0ed6-45a7-9e1f-211d4601f759)
 ### <img width="20" height="20" src="https://img.icons8.com/office/24/diploma.png" alt="diploma"/>Sertifika
